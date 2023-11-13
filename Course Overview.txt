@@ -1,0 +1,24 @@
+# Course Overview
+-----------------
+
+* Learning Objectives
+---------------------
+
+In this course, we will:
+
+. Review the role of ChatGPT in the high-tech industry.
+
+. Explore the potential uses of ChatGPT in Education.
+
+. Evaluate the benefits and potential challenges of using ChatGPT in government and law.
+
+. Apply concepts of generative AI to practical scenarios in everyday life.
+
+. Reflect on ethical considerations around using AI like ChatGPT.
+
+. Predict how the workplace might evolve with the increasing integration of AI.
+
+. Introduce the concept of artificial general intelligence (AGI).
+
+. Consider hypotheses on how generative AI could evolve and impact society in the next 5-10 years.
+
