@@ -240,6 +240,99 @@ nuanced understanding and customization, especially in cases where the content i
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Ethical Considerations of AI Technologies Revisited
+-----------------------------------------------------
+Learn about the ethical challenges that could arise in the future as generative AI technologies like ChatGPT become more powerful and pervasive and how we can address them. Key ideas:
+
+	. As AI systems become more autonomous, it’s important to address questions around accountability and responsibility for mistakes or harm caused.
+
+	. The balance between personalization and privacy must be navigated carefully to avoid infringement on privacy rights.
+
+	. Different sectors may face unique ethical challenges as AI becomes integrated into their operations.
+
+	. Anticipatory ethics and governance approaches can help identify and address ethical issues before they become problems and create flexible regulatory frameworks that can evolve 
+	with technology.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: How can anticipatory ethics and governance approaches help address emerging ethical challenges in the context of generative AI technologies like ChatGPT?
+---------
+
+* See our answer
+----------------
+Anticipatory ethics and governance approaches can help address emerging ethical challenges in the context of generative AI technologies like ChatGPT by identifying and addressing ethical 
+issues before they become problems. By anticipating the potential risks and benefits of AI technologies and by creating flexible regulatory frameworks that can evolve with developing 
+technology, we can promote ethical use of AI while encouraging innovation.
+
+Anticipatory ethics involves proactive ethical foresight, ongoing dialogue, and adaptability to address ethical challenges as they arise. Anticipatory governance involves creating 
+flexible regulatory frameworks that can evolve with the developing technology and promote responsible innovation.
+
+- Future-focused Ethics for AI
+------------------------------
+	. Importance of revisiting and reassesing ethical considerations.
+	
+	. Shifting attention to a future-focused perspective.
+
+	. Objective: identifying ethical challenges in the future.
+
+
+- Emerging Ethical Challenges
+-----------------------------
+	. Shaping public discourse and information ecosystems.
+
+	. Finding balance between personalization and privacy.
+
+	. Addressing questions around accountability.
+
+	
+- Ethical Considerations in Industry-specific Applications
+----------------------------------------------------------
+	. Unique ethical challenges in each sector.
+
+	. Ethical considerations: high-tech industry, education, and government.
+
+	. Regulations and guidelines in promoting ethical use of AI.
+
+
+- Navigating Uncertainty: Anticipatory Ethics and Governance
+------------------------------------------------------------
+	. Anticipatory ethics - identifying/addressing ethical issues before problems develop.
+
+	. Anticipatory governance - creating flexible regulatory frameworks that can evolve.
+
+	. Encouraging innovation while safeguarding societal values.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
