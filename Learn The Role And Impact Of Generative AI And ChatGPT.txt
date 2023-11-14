@@ -163,6 +163,57 @@ accuracy.
 	. Potential benefits and challenges.
 
 
+- Improving Public Services
+---------------------------
+	. ChatGPT aids in information dissemination; automated processes save time and resources.
+
+	. Opportunity for tailored responses to enhance service quality - 24/7 availability, identification of trends.
+
+	. Use of ChatGPT in public services raises questions about privacy, data security, errors, and bias.
+
+- AI and Legal Proceedings
+--------------------------
+	. Legal research: locate relevant precedents, interpret legal language.
+	
+	. Legal documents: generate contracts, wills, other legal document draft.
+
+	. Challenges: ensuring accuracy, addressing responsibility and accountability.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
