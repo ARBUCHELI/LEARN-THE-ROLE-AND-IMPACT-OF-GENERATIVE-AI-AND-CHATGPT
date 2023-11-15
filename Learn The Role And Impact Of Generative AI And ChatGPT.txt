@@ -306,7 +306,42 @@ flexible regulatory frameworks that can evolve with the developing technology an
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* ChatGPT and the Future of Work
+--------------------------------
+Learn about the potential changes in the workplace due to AI technologies and strategies to prepare for this evolving technology.
 
+Key ideas:
+
+	. AI can automate routine tasks, freeing up employees to focus on more complex aspects of their jobs.
+
+	. AI can enhance decision-making and data analysis.
+
+	. AI tools like ChatGPT can improve communication and collaboration in the workplace.
+
+	. Preparing for an AI-driven future involves individual upskilling and organizational adoption.
+
+	. Ethical considerations like fairness, transparency, and privacy must be addressed.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: How can organizations facilitate the adoption of AI technologies and manage the transition while ensuring fairness, transparency, and privacy?
+---------
+
+* See our answer
+----------------
+Organizations can facilitate the adoption of AI technologies and manage the transition while ensuring fairness, transparency, and privacy by:
+
+	. Establishing clear guidelines and policies for AI use
+
+	. Involving employees in the adoption process and providing training and upskilling opportunities
+
+	. Regularly reviewing and auditing AI systems to ensure fairness and transparency
+
+	. Implementing privacy and security measures to protect sensitive data
+
+	. Engaging with stakeholders and addressing ethical concerns throughout the adoption process
 
 
 
