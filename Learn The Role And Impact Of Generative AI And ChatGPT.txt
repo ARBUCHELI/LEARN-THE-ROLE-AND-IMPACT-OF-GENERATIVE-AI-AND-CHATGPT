@@ -379,6 +379,165 @@ Organizations can facilitate the adoption of AI technologies and manage the tran
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The Bigger Picture: ChatGPT and AGI
+-------------------------------------
+Learn about Artificial General Intelligence (AGI) and how developments like ChatGPT could potentially lead us toward AGI.
+
+Key ideas:
+
+	. AGI is a type of AI that can understand, learn, and apply knowledge across a wide range of tasks at a level equivalent to human intelligence.
+
+	. ChatGPT demonstrates a level of understanding across a wide range of topics and is the first step toward the development of full AGI capabilities.
+
+	. Developing AGI is a monumental task with technical and ethical challenges.
+
+	. Thoughtful consideration and responsible innovation will be crucial in navigating the journey toward AGI.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: What are some of the technical and ethical challenges that need to be addressed in the development of Artificial General Intelligence (AGI)?
+---------
+
+* See our answer
+----------------
+Some of the technical challenges in developing AGI include creating technology that can truly understand and apply knowledge like a human brain. Ethical challenges include questions 
+around decision-making autonomy, accountability, and the impact on society.
+
+* Artificial General Intelligence (AGI)
+---------------------------------------
+	. AGI: understand, learn, and apply knowledge with human-like intelligence.
+
+	. Advances in AI give rise to AGI and expanded capabilities.
+
+	. Developments like ChatGPT could lead us toward AGI.
+
+
+* ChatGPT: A Step toward AGI?
+-----------------------------
+ChatGPT can generate coherent and contextually relevant text
+
+	. Demonstrates understanding on a range of topics
+	
+	. Generates human-like responses
+
+	. Adapts and learns from feedback
+
+ChatGPT has limitations
+
+	. lack of true comprehension
+
+	. occasional incorrect or nonsensical responses
+
+
+* AGI Challenges and Considerations
+-----------------------------------
+
+	. Technical challenges:
+	-----------------------
+	true understanding and application of knowledge
+
+	. Ethical challenges:
+	---------------------
+	decision-making autonomy, accountability, and societal impact
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* The Next 5-10 Years in Generative AI
+--------------------------------------
+Learn about the exciting possibilities and potential impacts of generative AI technologies on society in the next five to ten years.
+
+Key ideas:
+
+	. Generative AI technologies like ChatGPT will continue to advance, with improved context understanding, accuracy, and creativity in generating content.
+
+	. Advancements in generative AI over the next decade could lead to novel applications in fields such as healthcare, education, and the arts, potentially transforming these 
+	industries.
+
+	. Generative AI has the potential to become a commonplace companion, enhancing human productivity and creativity.
+
+	. Managing the societal transition and addressing ethical considerations will be important challenges in realizing the full potential of generative AI.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: What are some potential applications of generative AI technologies in fields such as healthcare, education, and the arts? What are some challenges that need to be addressed for
+--------- 
+these applications to be successful?
+
+* See our answer
+----------------
+Some potential applications of generative AI technologies in healthcare include AI-generated diagnosis, drug discovery, and customized treatment plans. In education, AI teacher 
+assistants, personalized learning plans, and AI-generated educational content could be developed. In the arts, AI-generated artwork and musical compositions could become more prevalent.
+
+However, there are several challenges that need to be addressed for these applications to be successful. These include:
+
+	. Ensuring the accuracy and safety of AI-generated content and recommendations.
+
+	. Addressing ethical considerations such as data privacy, bias, and accountability.
+
+	. Ensuring that these technologies are accessible and affordable to all individuals and communities.
+	
+	. Managing the societal transition and potential job displacement resulting from the widespread adoption of these technologies.
+
+
+* Lookin Ahead
+--------------
+	. Exploration of how generative AI technologies could evolve and impact society in the next five to ten years.
+
+
+* Evolving Capabilities of Generative AI
+----------------------------------------
+	. Improved understanding of context, increased accuracy in responses, and enhanced creativity.
+
+	. More intelligent virtual assistants, advanced content generation in diverse fields.
+
+
+* Further Evolution of Generative AI
+------------------------------------
+	. Rudimentary form of common sense understanding or creativity.
+
+	. Novel applications in fields like healthcare, education, or creative arts.
+
+
+* Future Societal Implications of Generative AI
+-----------------------------------------------
+	. Significant changes in work, life, and society.
+
+	. Addressing ethical considerations, ensuring fair access, and managing societal transition.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
