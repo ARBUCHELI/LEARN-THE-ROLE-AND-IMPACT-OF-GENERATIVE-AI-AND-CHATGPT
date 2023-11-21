@@ -5,6 +5,7 @@
 ---------------------
 
 In this course, we will:
+------------------------
 
 . Review the role of ChatGPT in the high-tech industry.
 
